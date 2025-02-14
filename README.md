@@ -46,8 +46,9 @@ python app.py
 
 ### Example Request
 ```sh
-curl http://localhost:5000/scrape/youtube
+curl Running on http://127.0.0.1:5000
 ```
+![image](https://github.com/user-attachments/assets/bbb76bc1-7944-4e2d-bc33-77de73b39fe5)
 
 ## Configuration
 Modify the `.env` file to set up Selenium WebDriver and other configurations:
