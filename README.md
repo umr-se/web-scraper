@@ -59,7 +59,7 @@ CHROMEDRIVER_PATH=/path/to/chromedriver
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
-For any issues, contact me on [linkedIn] or (https://github.com/yourusername/web-scraper/issues)
+For any issues, contact me on [linkedIn] or (https://github.com/umr-se/web-scraper/issues)
 
 ![image](https://github.com/user-attachments/assets/f1404ee2-9a5f-475c-b24f-0b8be4c30979)
 ![image](https://github.com/user-attachments/assets/5048e8b2-ed9d-435f-a4cd-b06cc12ff188)
